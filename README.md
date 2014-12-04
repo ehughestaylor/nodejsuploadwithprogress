@@ -1,4 +1,0 @@
-nodejsuploadwithprogress
-========================
-
-nodejs first project
